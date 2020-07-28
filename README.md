@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a web developer.
+
+I have skills as a front-end engineer, back-end engineer and infrastructure engineer.
+
+My resume is [here](https://github.com/keitakn/cv).
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keitakn&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitakn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
