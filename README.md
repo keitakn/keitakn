@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am a web developer.
 
@@ -9,6 +9,15 @@ My resume is [here](https://github.com/keitakn/cv).
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keitakn&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitakn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/keitakn/posts.svg)](http://qiita.com/keitakn)
+
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/keitakn/contributions.svg)](http://qiita.com/keitakn)
+
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/keitakn/followers.svg)](http://qiita.com/keitakn)
 
 <!--
 **keitakn/keitakn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
