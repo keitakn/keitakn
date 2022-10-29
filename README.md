@@ -3,6 +3,12 @@
 
 - 📄 Know about my experiences [https://github.com/keitakn/cv](https://github.com/keitakn/cv)
 
+### Blogs posts
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=keitakn&show_icons=true&locale=en&layout=compact"/></p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/keita_kn_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keita_kn_web" height="30" width="40" /></a>
