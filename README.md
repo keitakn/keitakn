@@ -7,13 +7,13 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=keitakn&show_icons=true&locale=en&layout=compact"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [エンジニアにとって重要な能力は言語化だと思う](https://zenn.dev/keitakn/articles/f3ed13a620d834)
 - [Next.js + VercelとSentryを連携させる](https://zenn.dev/keitakn/articles/add-sentry-to-nextjs-vercel)
 - [Chromaticでコミット毎にStorybookをデプロイしてコードレビューを効率化する](https://zenn.dev/keitakn/articles/storybook-deploy-to-chromatic)
 - [ngrokで独自ドメイン、IP制限を利用する](https://zenn.dev/keitakn/articles/ngrok-advanced-settings)
 - [Amazon Rekognitionでねこ画像の判定処理を行う](https://zenn.dev/keitakn/articles/amazon-rekognition-cat-image)
 - [Next.js で GTM + GA4を利用する](https://zenn.dev/keitakn/articles/nextjs-google-tag-manager)
 - [GitHub PackagesにReactComponentをprivate npm packageとして公開する](https://zenn.dev/keitakn/articles/github-packages-private-react-npm)
-- [Next.js + Vercelでステージング環境を構築](https://zenn.dev/keitakn/articles/nextjs-vercel-create-staging)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
