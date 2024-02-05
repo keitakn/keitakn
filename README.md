@@ -7,13 +7,13 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=keitakn&show_icons=true&locale=en&layout=compact"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Streaming + Function callingの並列実行に対応する](https://zenn.dev/keitakn/articles/tools-with-function-calling)
 - [PlanetScale APIを使ってDBテストを高速化した](https://zenn.dev/keitakn/articles/accelerate-planetscale-test-code)
 - [Python + FastAPIでオニオンアーキテクチャ（簡易版）](https://zenn.dev/keitakn/articles/python-fastapi-onion-architecture-simplified)
 - [VercelのアプリケーションにCloudflareで購入した独自ドメインを設定する](https://zenn.dev/keitakn/articles/add-cloudflare-domain-to-vercel)
 - [【個人開発】猫のLGTM画像共有サービス、LGTMeowのデザインリニューアル + 多言語対応](https://zenn.dev/keitakn/articles/lgtmeow-design-renewal)
 - [エンジニアにとって重要な能力は言語化だと思う](https://zenn.dev/keitakn/articles/f3ed13a620d834)
 - [Next.js + VercelとSentryを連携させる](https://zenn.dev/keitakn/articles/add-sentry-to-nextjs-vercel)
-- [Chromaticでコミット毎にStorybookをデプロイしてコードレビューを効率化する](https://zenn.dev/keitakn/articles/storybook-deploy-to-chromatic)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
