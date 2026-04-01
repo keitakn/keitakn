@@ -7,13 +7,13 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=keitakn&show_icons=true&locale=en&layout=compact"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Codeのエージェントスキルで実装計画のレビューループを自動化する](https://zenn.dev/avaintelligence/articles/codex-review-skill-automation)
 - [技術負債も理解負債も生まないAIコーディング手法（2026年2月現在）](https://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices)
 - [pytestでLLMプロダクトをLLMで評価するLLM-as-a-Judgeをやってみた](https://zenn.dev/keitakn/articles/simple-llm-as-a-judge)
 - [OpenAI Streaming + Function callingの並列実行に対応する](https://zenn.dev/keitakn/articles/tools-with-function-calling)
 - [PlanetScale APIを使ってDBテストを高速化した](https://zenn.dev/keitakn/articles/accelerate-planetscale-test-code)
 - [Python + FastAPIでオニオンアーキテクチャ（簡易版）](https://zenn.dev/keitakn/articles/python-fastapi-onion-architecture-simplified)
 - [VercelのアプリケーションにCloudflareで購入した独自ドメインを設定する](https://zenn.dev/keitakn/articles/add-cloudflare-domain-to-vercel)
-- [【個人開発】猫のLGTM画像共有サービス、LGTMeowのデザインリニューアル + 多言語対応](https://zenn.dev/keitakn/articles/lgtmeow-design-renewal)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
